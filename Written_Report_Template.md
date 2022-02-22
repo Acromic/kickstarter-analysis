@@ -8,8 +8,10 @@ Determine theatre/play outcomes based on funding and goal amount and which are m
 Pulled theater goal data from 2009-2017 and put into a pivot table to analyze successful, failed and cancelled outcomes that can sorted by months and years. I used a line chart to demonstrate the analysis. I created an additional line chart to show percentages of successful, failed and cancelled outcomes for plays as a whole. I had difficulty using the countifs formula. I overcame by watching numerous tutorials, asking questions and applying it thru trial and error till it made sense. I also used the line chart in the module as a guide.
 ### Analysis of Outcomes Based on Launch Date
 Year 4 began to have the most launches. May thru August were the most successful months to launch with May being the high point with 166 launches and 111 were successes followed by 52 failures and 3 canclled.
+![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 The most successful outcomes were all plays that were under $5,000. There were also some decent successes with amounts of $35,000 - $45,000
+![Outcomes_vs_Goals](Resources/Outcomes_vs _Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
