@@ -11,7 +11,7 @@ Year 4 began to have the most launches. May thru August were the most successful
 ![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 The most successful outcomes were all plays that were under $5,000. There were also some decent successes with amounts of $35,000 - $45,000
-![Outcomes_vs_Goals](Resources/Outcomes_vs _Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs%20_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
